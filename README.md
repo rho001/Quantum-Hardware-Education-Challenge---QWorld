@@ -9,6 +9,8 @@ Liang Cassey Crystania (github id: 43680115, discord id: 996704469297410059, ema
 
 Raymond Ho (github id: 67773490, email: horaymond1@gmail.com)
 
+Presenter: both
+
 # Photonic quantum computing with Strawberry Fields
 
 

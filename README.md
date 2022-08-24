@@ -5,9 +5,9 @@ Name of team: Schrodinger Cats
 
 Name of team members:
 
-Liang Cassey Crystania
+Liang Cassey Crystania (github id: 43680115, discord id: 996704469297410059, email: casseyliang15@gmail.com)
 
-Raymond Ho
+Raymond Ho (github id: 67773490, email: horaymond1@gmail.com)
 
 # Photonic quantum computing with Strawberry Fields
 
